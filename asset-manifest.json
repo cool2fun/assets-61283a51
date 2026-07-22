@@ -1,0 +1,2091 @@
+{
+  "name": "Getting Over It",
+  "slug": "getting-over-it",
+  "entryUrl": "https://turbowarp.org/389464290/embed?key=y8&value=default",
+  "capturedAt": "2026-07-22T10:19:42.419Z",
+  "navigationError": null,
+  "assets": [
+    {
+      "url": "https://turbowarp.org/389464290/embed?key=y8&value=default",
+      "file": "index.html",
+      "bytes": 1964,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://turbowarp.org/js/pentapod/vendors~addon-settings~credits~editor~embed~fullscreen~player.c6895b1bf7ac603427b7.js",
+      "file": "js/pentapod/vendors~addon-settings~credits~editor~embed~fullscreen~player.c6895b1bf7ac603427b7.js",
+      "bytes": 165312,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://turbowarp.org/js/pentapod/addon-settings~editor~embed~fullscreen~player.f29cfc348f678143e2b8.js",
+      "file": "js/pentapod/addon-settings~editor~embed~fullscreen~player.f29cfc348f678143e2b8.js",
+      "bytes": 30782,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://turbowarp.org/js/pentapod/embed.8ec6dce5c02e230ed04f.js",
+      "file": "js/pentapod/embed.8ec6dce5c02e230ed04f.js",
+      "bytes": 1609620,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://turbowarp.org/static/assets/7efe82fffae735cd083388badd51b3fa.svg",
+      "file": "static/assets/7efe82fffae735cd083388badd51b3fa.svg",
+      "bytes": 2644,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://turbowarp.org/static/assets/679ce05ac8c35bbf83f596e895ab711b.svg",
+      "file": "static/assets/679ce05ac8c35bbf83f596e895ab711b.svg",
+      "bytes": 2620,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://turbowarp.org/js/pentapod/vendors~editor~embed~fullscreen~player.351bae045be7385381fc.js",
+      "file": "js/pentapod/vendors~editor~embed~fullscreen~player.351bae045be7385381fc.js",
+      "bytes": 5259555,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://turbowarp.org/static/assets/674db5c2e49df884273ac0f7d221865c.svg",
+      "file": "static/assets/674db5c2e49df884273ac0f7d221865c.svg",
+      "bytes": 2644,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://turbowarp.org/static/assets/566d73a090e3d42d5bdfee3d92c79d25.svg",
+      "file": "static/assets/566d73a090e3d42d5bdfee3d92c79d25.svg",
+      "bytes": 2628,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/svg+xml"
+    },
+    {
+      "url": "https://turbowarp.org/static/assets/cb3ac3b4a8540f50937a86af7eb4663c.woff2",
+      "file": "static/assets/cb3ac3b4a8540f50937a86af7eb4663c.woff2",
+      "bytes": 169496,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://turbowarp.org/static/assets/5796214a21c5c1727ed7b08096ee7cff.woff2",
+      "file": "static/assets/5796214a21c5c1727ed7b08096ee7cff.woff2",
+      "bytes": 99548,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://turbowarp.org/static/assets/6cd3397308e11e6d925446470b906f2a.woff2",
+      "file": "static/assets/6cd3397308e11e6d925446470b906f2a.woff2",
+      "bytes": 17528,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://turbowarp.org/static/assets/2e6994cc7c70b524c649f60346bdcb3a.woff2",
+      "file": "static/assets/2e6994cc7c70b524c649f60346bdcb3a.woff2",
+      "bytes": 20040,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://turbowarp.org/static/assets/208e2134a0e95cbdd211a82d2863d88d.woff2",
+      "file": "static/assets/208e2134a0e95cbdd211a82d2863d88d.woff2",
+      "bytes": 75316,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://turbowarp.org/static/assets/f108ac9d733ce5d45cdea3b7828e8658.woff2",
+      "file": "static/assets/f108ac9d733ce5d45cdea3b7828e8658.woff2",
+      "bytes": 3772,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://turbowarp.org/static/assets/75f5f189fdc419824a8134db6eb63881.woff2",
+      "file": "static/assets/75f5f189fdc419824a8134db6eb63881.woff2",
+      "bytes": 31064,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "font/woff2"
+    },
+    {
+      "url": "https://trampoline.turbowarp.org/api/projects/389464290?rudebuster=0.8354038756992869",
+      "file": "_external/trampoline.turbowarp.org/api/projects/389464290",
+      "bytes": 3326,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://projects.scratch.mit.edu/389464290?token=1784715856_ca31be1e59a2c40bfbeb7669a72ac8130572bb32327014aa4b620f66b1e8a6f42aed54ba74cb5ea580e67e7541dba2f249af6aa1a3c9dfaa309bf26e446c44b9",
+      "file": "_external/projects.scratch.mit.edu/389464290",
+      "bytes": 757736,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/octet-stream"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3339a2953a3bf62bb80e54ff575dbced.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3339a2953a3bf62bb80e54ff575dbced.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/e2f51e475b5ae5eb2ada7a9b444fe10f.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/e2f51e475b5ae5eb2ada7a9b444fe10f.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9be6427a76381ccbe3896bc2b907fabe.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9be6427a76381ccbe3896bc2b907fabe.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/198a9cc9b89229c7b633b6bc105c439e.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/198a9cc9b89229c7b633b6bc105c439e.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/83a9787d4cb6f3b7632b4ddfebf74367.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/83a9787d4cb6f3b7632b4ddfebf74367.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/5361b715c036265113429786cc37ccb5.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/5361b715c036265113429786cc37ccb5.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/699421b94ce3903586caf1a3b3996f92.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/699421b94ce3903586caf1a3b3996f92.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3d3bf704b4b8ee803820ba3e2f4b795f.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3d3bf704b4b8ee803820ba3e2f4b795f.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/302c1290adf10f3da934289c92492328.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/302c1290adf10f3da934289c92492328.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/db05b8d3d6e719d0cfb82e628bb00ba5.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/db05b8d3d6e719d0cfb82e628bb00ba5.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/6041bb9e3d26c532754fd98a4533fc15.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/6041bb9e3d26c532754fd98a4533fc15.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3a89e6d08a04993431bdfbaf74d327e6.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3a89e6d08a04993431bdfbaf74d327e6.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/bb1e86e893f60446efb6c31c3ad445d4.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/bb1e86e893f60446efb6c31c3ad445d4.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/d90fd854dccfbf64464a55cba66fd6e7.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/d90fd854dccfbf64464a55cba66fd6e7.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3743c4da09263711c770c08795e0f2e1.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3743c4da09263711c770c08795e0f2e1.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/907036b2c6abb3dc0eb7249713693972.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/907036b2c6abb3dc0eb7249713693972.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/96b8f562d6759a3f1940c669cf8f8cfb.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/96b8f562d6759a3f1940c669cf8f8cfb.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/287f7441556f832093cbdf88f1dd2887.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/287f7441556f832093cbdf88f1dd2887.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f41570c5fbc911057bcda6572bbcb94b.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f41570c5fbc911057bcda6572bbcb94b.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/190d9458a3afa3ff1d48679f5ef196c4.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/190d9458a3afa3ff1d48679f5ef196c4.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/a9573df16e9782cb1146dfc3b68b2412.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/a9573df16e9782cb1146dfc3b68b2412.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/76756e2ca8004e71638194ebf55a39fb.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/76756e2ca8004e71638194ebf55a39fb.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f616683ac296dc668869a4528b3f197a.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f616683ac296dc668869a4528b3f197a.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/1c1c4406b49369a654fedf1c9d555d69.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/1c1c4406b49369a654fedf1c9d555d69.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8b3eac90c5b83fe087a48347de1ab53f.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8b3eac90c5b83fe087a48347de1ab53f.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/eda6be1f49e20c4efc4269c9bb84afff.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/eda6be1f49e20c4efc4269c9bb84afff.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9e778a087602fbde55a7beb005b3317c.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9e778a087602fbde55a7beb005b3317c.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/25301ce206dd3bb9d383a233fa16d421.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/25301ce206dd3bb9d383a233fa16d421.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f2a1beaff9b43d3c7731fc0a56cf8bb7.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f2a1beaff9b43d3c7731fc0a56cf8bb7.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/4fd78ca6658209ee12b91c7876355a6b.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/4fd78ca6658209ee12b91c7876355a6b.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/ca931ba3795999ee33b478efc7051b56.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/ca931ba3795999ee33b478efc7051b56.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/99961da9cf6228b0c48d3b0941a00c9a.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/99961da9cf6228b0c48d3b0941a00c9a.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/6e9a3e321cc45be0730c1f019a815941.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/6e9a3e321cc45be0730c1f019a815941.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/c33f5db71f1534a09136142c8ca6858f.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/c33f5db71f1534a09136142c8ca6858f.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/0d113367e5d21a36d11b75874b07b0bb.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/0d113367e5d21a36d11b75874b07b0bb.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/1167c6f8050718a27017d4882bee778e.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/1167c6f8050718a27017d4882bee778e.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/40c4361fe1f85220fde5bb73921bc427.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/40c4361fe1f85220fde5bb73921bc427.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/b9ffc762005cc8dce296ce3d56bcb290.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/b9ffc762005cc8dce296ce3d56bcb290.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9ea764620d92bf387f00b1427e80a32e.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9ea764620d92bf387f00b1427e80a32e.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8d542cda79284adc20cc74538a36d453.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8d542cda79284adc20cc74538a36d453.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/ea6218f13788c6672aecce16fbdf2d8c.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/ea6218f13788c6672aecce16fbdf2d8c.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/b10ef48d3b03facf05364dd8111c25c5.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/b10ef48d3b03facf05364dd8111c25c5.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/5e1c692ea67c74fde139730dea1ea2bd.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/5e1c692ea67c74fde139730dea1ea2bd.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/bf54d414e26ab353c3c1b29a39b4c04a.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/bf54d414e26ab353c3c1b29a39b4c04a.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/10db9ab6cca0dd940fce76ed37f8700d.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/10db9ab6cca0dd940fce76ed37f8700d.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/7957bcdb1ff4d637fef7b3683f049be9.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/7957bcdb1ff4d637fef7b3683f049be9.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/c354eefec304c7f5d524588f6cb6659e.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/c354eefec304c7f5d524588f6cb6659e.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/e02b8fce3643a04e43ce4ca4a60df6d0.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/e02b8fce3643a04e43ce4ca4a60df6d0.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/1a216fe26aa0a9f2b75986440eeef60f.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/1a216fe26aa0a9f2b75986440eeef60f.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/290f0bdf8de78517a81241d06becf7b4.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/290f0bdf8de78517a81241d06becf7b4.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/6a98afb494331c10bc785230c1220175.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/6a98afb494331c10bc785230c1220175.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/036f58d2c1c8502eb4be82bb5e044cbb.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/036f58d2c1c8502eb4be82bb5e044cbb.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/12c8ca799302d97be9b711bb430e4b03.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/12c8ca799302d97be9b711bb430e4b03.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/746c1162efb6e10220025099ae1afa73.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/746c1162efb6e10220025099ae1afa73.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f932e9dc2684149eb877502fae44d238.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f932e9dc2684149eb877502fae44d238.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f378a9a3ee9442ea167e1b83c4b69f46.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f378a9a3ee9442ea167e1b83c4b69f46.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/566f63ca033536fe025816b4a959edb9.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/566f63ca033536fe025816b4a959edb9.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/850508db6475641d4f9f67922b993893.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/850508db6475641d4f9f67922b993893.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/4087e6115514069288fb23d999303b1c.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/4087e6115514069288fb23d999303b1c.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/12fbb6194138d31d8ebe61c0ff787122.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/12fbb6194138d31d8ebe61c0ff787122.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/223047a53710a87cca168efd7b15681e.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/223047a53710a87cca168efd7b15681e.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/c77a885a5749137b6502cf80e411d2bb.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/c77a885a5749137b6502cf80e411d2bb.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/60e9480158aaf10e87c7bf38069db344.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/60e9480158aaf10e87c7bf38069db344.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9f10f15032122d551bb3ead0c2152534.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9f10f15032122d551bb3ead0c2152534.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8bfe3e6d9d20aea3e9917cfbe8cc2a4a.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8bfe3e6d9d20aea3e9917cfbe8cc2a4a.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9e189ec170f9f8819522aa8fa157562d.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9e189ec170f9f8819522aa8fa157562d.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3151c1b238765f702cfe0d5a3985fe9d.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3151c1b238765f702cfe0d5a3985fe9d.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/b96674567fe7d001261636e73dfaf63e.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/b96674567fe7d001261636e73dfaf63e.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/41544fad1ecd5fe0970b8e11474e4576.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/41544fad1ecd5fe0970b8e11474e4576.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/cb2a67b11569459e04e8cefbae1116a7.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/cb2a67b11569459e04e8cefbae1116a7.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/faaf404ac58d98b1c42aa09d42d3f604.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/faaf404ac58d98b1c42aa09d42d3f604.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/762ae69b77b88f1bd72d7048ac081b38.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/762ae69b77b88f1bd72d7048ac081b38.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/fa6748870cceddab8124bcdbf13146c7.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/fa6748870cceddab8124bcdbf13146c7.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/ff21cc626652ce8633203a4fda7bb61f.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/ff21cc626652ce8633203a4fda7bb61f.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/906a550cdbcfdfa412b40e1eca9e0c57.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/906a550cdbcfdfa412b40e1eca9e0c57.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/6eb49ff8c379f296f40abbeb80e66bd3.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/6eb49ff8c379f296f40abbeb80e66bd3.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f70cdd7f5800b3d040dff5a90998d263.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f70cdd7f5800b3d040dff5a90998d263.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8272b98a9f134ec33c3873ca747505ef.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8272b98a9f134ec33c3873ca747505ef.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/801553effb16308c6f61389c9e4c7cf3.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/801553effb16308c6f61389c9e4c7cf3.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/63fe35fd28445d2f5d42a16558437b93.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/63fe35fd28445d2f5d42a16558437b93.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/75d554c711c95f413d1f11ee41947807.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/75d554c711c95f413d1f11ee41947807.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f8231317c734973d929d28bac68a8b63.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f8231317c734973d929d28bac68a8b63.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8673450c3adc0220f3763578e59f6c87.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8673450c3adc0220f3763578e59f6c87.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/a417f8b3ea9956d1c8203a272a026c89.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/a417f8b3ea9956d1c8203a272a026c89.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/706a4cd462ac8768db6f26af00b80c60.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/706a4cd462ac8768db6f26af00b80c60.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/942b53921a3028d2f46778321a6a1356.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/942b53921a3028d2f46778321a6a1356.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8eb2b0b3a87933e5ab46e18a97cf04c0.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8eb2b0b3a87933e5ab46e18a97cf04c0.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/b15ed0d0c79dcf420d12c1da20ad0853.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/b15ed0d0c79dcf420d12c1da20ad0853.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/ef76127edb352eb02075f3c23e2128bf.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/ef76127edb352eb02075f3c23e2128bf.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f5da665476e8ce7f03b91ee2f4391ea7.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f5da665476e8ce7f03b91ee2f4391ea7.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3711912594fc074086e98fd338a292ca.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3711912594fc074086e98fd338a292ca.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/23e2b1fdd2f63c8221787f45f562160c.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/23e2b1fdd2f63c8221787f45f562160c.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/ba318bf34b1bc1a38c629eea83cbce59.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/ba318bf34b1bc1a38c629eea83cbce59.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/dc73e003f40627e4b63daacc00fe5f62.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/dc73e003f40627e4b63daacc00fe5f62.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3e2690ea63a8b8cb2c0849b1825ae178.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3e2690ea63a8b8cb2c0849b1825ae178.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/cc689327330942bc84e7271328c266c3.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/cc689327330942bc84e7271328c266c3.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f8a56c7528f8a9bbc7895ecccc1ea5b0.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f8a56c7528f8a9bbc7895ecccc1ea5b0.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/d68a1f9acd893b7a3e88c86edc33f4bb.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/d68a1f9acd893b7a3e88c86edc33f4bb.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/7622596f6398f2de10285418ec15af50.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/7622596f6398f2de10285418ec15af50.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/1ae25d80538dacb0aded33d7517fb1e2.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/1ae25d80538dacb0aded33d7517fb1e2.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/43a16971a5ee1262593e2ede32ed47e3.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/43a16971a5ee1262593e2ede32ed47e3.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/7bf4fa8eba40faf44b553df0b16956a6.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/7bf4fa8eba40faf44b553df0b16956a6.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/5ea23a79bd01fe629c94d56289f23428.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/5ea23a79bd01fe629c94d56289f23428.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/c4fc2c0122757cb04d0d2efefeab168c.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/c4fc2c0122757cb04d0d2efefeab168c.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/eaaa9b6c09d2b66c2e7f80a39dfdff8b.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/eaaa9b6c09d2b66c2e7f80a39dfdff8b.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9546ef9f7a44536426fb78382c7f5cf3.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9546ef9f7a44536426fb78382c7f5cf3.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/b83998e11713ed2988419eb8528b1fb5.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/b83998e11713ed2988419eb8528b1fb5.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/e0de1417077a1d2623d2f08c86dd1e38.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/e0de1417077a1d2623d2f08c86dd1e38.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/43793cf8d8788490b70252d6c3dc4835.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/43793cf8d8788490b70252d6c3dc4835.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/fc713fa3ea5e13f7212d6830bb6cb6fc.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/fc713fa3ea5e13f7212d6830bb6cb6fc.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/208f4b07daea51c402cfaa05e60911db.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/208f4b07daea51c402cfaa05e60911db.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f9fce757b14b8812448edc49517b41f9.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f9fce757b14b8812448edc49517b41f9.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/ea8590165cd3b744496d0e190277f2a7.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/ea8590165cd3b744496d0e190277f2a7.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/738c0bb88c7243396275f94a1030f2a1.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/738c0bb88c7243396275f94a1030f2a1.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3ca9d02a11abbf94fe8d7fc932fd187f.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3ca9d02a11abbf94fe8d7fc932fd187f.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/d662a889b6f9fa1623f0399d67a8df87.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/d662a889b6f9fa1623f0399d67a8df87.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/50043475a11c909892a68e06464bb358.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/50043475a11c909892a68e06464bb358.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/0a6c82995f88ebadac68c8dbf2eb8d30.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/0a6c82995f88ebadac68c8dbf2eb8d30.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/56f65327b2fc3619b972a14a191d89dd.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/56f65327b2fc3619b972a14a191d89dd.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/c7e06fe2abef58b8555a7215628776a6.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/c7e06fe2abef58b8555a7215628776a6.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/69b0d420138a12db7fd46c962652abe0.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/69b0d420138a12db7fd46c962652abe0.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/49c9e312c4d27d5be20ed57a89be8c3b.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/49c9e312c4d27d5be20ed57a89be8c3b.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/05e246937eeec0211269679597d4e0b8.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/05e246937eeec0211269679597d4e0b8.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f6ad59f35a360de0bb78d7c641bdffca.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f6ad59f35a360de0bb78d7c641bdffca.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/420f50439eb1ff9eb3f63758bb1bae60.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/420f50439eb1ff9eb3f63758bb1bae60.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/44426d50702739560f7b3c20b5e9bfa0.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/44426d50702739560f7b3c20b5e9bfa0.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/4b4cf11409ffc6c60422dff9136a181b.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/4b4cf11409ffc6c60422dff9136a181b.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3eb3d539a7475e53d62fabd1512df370.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3eb3d539a7475e53d62fabd1512df370.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/7b4a27bc971986d396f13eb472e75be8.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/7b4a27bc971986d396f13eb472e75be8.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/2927b80cc96ca1733e2ddb7a79fe67e8.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/2927b80cc96ca1733e2ddb7a79fe67e8.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/0237ff258e49f04171f68dcfe2cb0efc.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/0237ff258e49f04171f68dcfe2cb0efc.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/329033987ca1c2224631c921506cf2bc.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/329033987ca1c2224631c921506cf2bc.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/35c819088ca54fa34818e2d25bf657f7.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/35c819088ca54fa34818e2d25bf657f7.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8ddc6e88c76bf05df6c571e9b711f6b1.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8ddc6e88c76bf05df6c571e9b711f6b1.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/4aff90c712849ec9c8172cc14dd5d308.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/4aff90c712849ec9c8172cc14dd5d308.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/67b196aafba1b371d73b1fc8426972c7.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/67b196aafba1b371d73b1fc8426972c7.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/b54f2f246dc55f1c678c1a99e8bfe767.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/b54f2f246dc55f1c678c1a99e8bfe767.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/843ec9bfd8216e7cfa1918599b3d7622.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/843ec9bfd8216e7cfa1918599b3d7622.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/ba53bb1ddd325228f1eafee1733b9e29.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/ba53bb1ddd325228f1eafee1733b9e29.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/0d3ee7594bedd4650534902157c886ab.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/0d3ee7594bedd4650534902157c886ab.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f8d9c0bd5ebd2606c155e1ef27638cb9.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f8d9c0bd5ebd2606c155e1ef27638cb9.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/ec28b3b45589690226c7207c2aa0ec22.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/ec28b3b45589690226c7207c2aa0ec22.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/ea198882f4c1580f1c4938812da6ac20.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/ea198882f4c1580f1c4938812da6ac20.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/31f7e98de57337ed66d668c21224bf1c.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/31f7e98de57337ed66d668c21224bf1c.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/13b14341e7ee420862f356c3578d100c.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/13b14341e7ee420862f356c3578d100c.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/e2f84c5d1819f520da83fc9d4a69f522.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/e2f84c5d1819f520da83fc9d4a69f522.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/14ffe4e1adc2d8f48201841c9b3f7664.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/14ffe4e1adc2d8f48201841c9b3f7664.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/0bea5fe7800a54e668f2845e30bdc321.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/0bea5fe7800a54e668f2845e30bdc321.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3517dd7e77d9bc811c5deb104500fa4c.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3517dd7e77d9bc811c5deb104500fa4c.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/72ab52ac69538252512cafdf3fa2f38c.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/72ab52ac69538252512cafdf3fa2f38c.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/126e07f3449aac31626d28268ace6894.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/126e07f3449aac31626d28268ace6894.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/6dafb0fb095b96b120478aaaa5614a1d.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/6dafb0fb095b96b120478aaaa5614a1d.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/cbf27188324120f70b98eec0f3c3b187.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/cbf27188324120f70b98eec0f3c3b187.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/855ce8b408ced2ebbdd2c4f12ce6e77b.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/855ce8b408ced2ebbdd2c4f12ce6e77b.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/0298f8853099a7361017c93c5e589319.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/0298f8853099a7361017c93c5e589319.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/a60c906a7054e8c46d2a4a09d361143b.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/a60c906a7054e8c46d2a4a09d361143b.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f4c0b2b0efad2d963e4c6c6a7e09bec2.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f4c0b2b0efad2d963e4c6c6a7e09bec2.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/cba827ac269e22bebf95ee3fcbc6a1e4.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/cba827ac269e22bebf95ee3fcbc6a1e4.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8b239a7518838247d116c2b135697ec0.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8b239a7518838247d116c2b135697ec0.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/01ca59b9f2848c0c0fbb09326c85653c.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/01ca59b9f2848c0c0fbb09326c85653c.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3c560d7894cebc68a117edf2afd443d7.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3c560d7894cebc68a117edf2afd443d7.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/adffcbc3e3aa52143884e3fdcba866f0.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/adffcbc3e3aa52143884e3fdcba866f0.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/be94b3026ffa69fee3fc1660cba0bf48.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/be94b3026ffa69fee3fc1660cba0bf48.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/7ec991aabd5efd2640895af30bf5f794.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/7ec991aabd5efd2640895af30bf5f794.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/1963bfc887d3b5de500364164ae1d06a.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/1963bfc887d3b5de500364164ae1d06a.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/1e5d3513dfba44e6b9234ccb3d242514.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/1e5d3513dfba44e6b9234ccb3d242514.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/589bc696f4a37b5b4424117515af0ec1.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/589bc696f4a37b5b4424117515af0ec1.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/243f8fd11a73aca8f15a29f2ecd6a95a.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/243f8fd11a73aca8f15a29f2ecd6a95a.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/b81b432a7e48b529795fb8d1a81da145.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/b81b432a7e48b529795fb8d1a81da145.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8a660e660bcee2f47fc9752f5eb88fb9.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8a660e660bcee2f47fc9752f5eb88fb9.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/6c8616fd930e024e28f1d7715d9a31de.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/6c8616fd930e024e28f1d7715d9a31de.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/11fee64093f14f0c2487801b7b3b2636.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/11fee64093f14f0c2487801b7b3b2636.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/50be8ee3a861ef5d112e06909c3544ad.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/50be8ee3a861ef5d112e06909c3544ad.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/be3f83bcba6702e70803d175b91ee5cc.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/be3f83bcba6702e70803d175b91ee5cc.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/7c1d421f4270c6f4cbf5e385231a3e32.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/7c1d421f4270c6f4cbf5e385231a3e32.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/425c0985ab1cc229adfa76506f37d84f.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/425c0985ab1cc229adfa76506f37d84f.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/d33cfb80b32364cd41102285f8ed61ac.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/d33cfb80b32364cd41102285f8ed61ac.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/d64e73be3dcc8609fa4d37122363a1ee.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/d64e73be3dcc8609fa4d37122363a1ee.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/b3c0f8a45e743d229bf2914c3d0e691a.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/b3c0f8a45e743d229bf2914c3d0e691a.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9d0c46a08c82236f46c68bf92ce70c04.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9d0c46a08c82236f46c68bf92ce70c04.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/671908a655d32a1701d580ba8e753374.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/671908a655d32a1701d580ba8e753374.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/5653e64576a2938e26676aadabec62b5.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/5653e64576a2938e26676aadabec62b5.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/5443e44d9173bdf981d4c2fdfc461ae8.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/5443e44d9173bdf981d4c2fdfc461ae8.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/0bf62c0590e554844115fa98cde92a99.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/0bf62c0590e554844115fa98cde92a99.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/fd33c57a4bae09ef382f30d87d51e848.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/fd33c57a4bae09ef382f30d87d51e848.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/d6145fe7f8423ecf592ea6e633c8d5ed.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/d6145fe7f8423ecf592ea6e633c8d5ed.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/fdc74583ed69799942d4162c46e06663.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/fdc74583ed69799942d4162c46e06663.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/7f054e76bcbfb58beb5471851d7b3278.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/7f054e76bcbfb58beb5471851d7b3278.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f267d242d738d5deaecfe0a54cf4e0ed.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f267d242d738d5deaecfe0a54cf4e0ed.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/753addb3e1887b96da13d15efdef3174.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/753addb3e1887b96da13d15efdef3174.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/7e525becaf74a875a7b80971f580dfe8.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/7e525becaf74a875a7b80971f580dfe8.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/0c3396560700a252aef37b3c46bfa0cb.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/0c3396560700a252aef37b3c46bfa0cb.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/718314909303f167cc2537fbbc4da95c.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/718314909303f167cc2537fbbc4da95c.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3accabb338a49460bb33656789280900.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3accabb338a49460bb33656789280900.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/91a919e1c000ca023ffb841d29363aac.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/91a919e1c000ca023ffb841d29363aac.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/6d930e2610ff7a6712f0b3448912a8c2.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/6d930e2610ff7a6712f0b3448912a8c2.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/38df8cc900e43e03dc83f1a5d3c1c357.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/38df8cc900e43e03dc83f1a5d3c1c357.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/6e26e71d864211b283d7766314402ee0.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/6e26e71d864211b283d7766314402ee0.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/57117bb93743699bcae103751e7fbe4b.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/57117bb93743699bcae103751e7fbe4b.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/c5812d1f6d39cb2b4b135f92d485bac3.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/c5812d1f6d39cb2b4b135f92d485bac3.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/13a139931a59f42a73800e64e146f9b9.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/13a139931a59f42a73800e64e146f9b9.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/0f4bfbae0a4c3591f8fad31b655970a8.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/0f4bfbae0a4c3591f8fad31b655970a8.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/341b260e8884a340fa2218a6d56ca95d.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/341b260e8884a340fa2218a6d56ca95d.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/983436075a98e0248734eb19fc3344a6.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/983436075a98e0248734eb19fc3344a6.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/5737f8ecff5788e6f89c57b91952bc06.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/5737f8ecff5788e6f89c57b91952bc06.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/0999b28b519d540747e4edd6631b2217.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/0999b28b519d540747e4edd6631b2217.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/97f5e2d66a1d82e3f479668bcdc461c5.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/97f5e2d66a1d82e3f479668bcdc461c5.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/e9ec98c71233a574133c2aeedcb3e12a.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/e9ec98c71233a574133c2aeedcb3e12a.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/a04a82db32b15bc958227c6dfaedce8c.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/a04a82db32b15bc958227c6dfaedce8c.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/14dce4b51f71399af30d0129252a87db.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/14dce4b51f71399af30d0129252a87db.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8f9da1a1b385fd30a64189c3af4a85f7.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8f9da1a1b385fd30a64189c3af4a85f7.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/423bcf93f0b45f7ce9bf5919972d17e4.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/423bcf93f0b45f7ce9bf5919972d17e4.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f65015d4c9b0d011dce3e98330c85ab0.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f65015d4c9b0d011dce3e98330c85ab0.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/52680cf0b5f2904c4bda629bec95dcea.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/52680cf0b5f2904c4bda629bec95dcea.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/0a365f2c0fe1ae815645642d7004fb6e.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/0a365f2c0fe1ae815645642d7004fb6e.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/da987a59a8be86f9ca2460ecd0be30ce.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/da987a59a8be86f9ca2460ecd0be30ce.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3d42cd040dc35903477956241fc031f6.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3d42cd040dc35903477956241fc031f6.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/c4a7b162c46837444e865d00a9da0bc0.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/c4a7b162c46837444e865d00a9da0bc0.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9ae625317bb33ab683645fbeca14ba71.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9ae625317bb33ab683645fbeca14ba71.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/6a4a9b31ac99a02f11fa49de05f55a0b.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/6a4a9b31ac99a02f11fa49de05f55a0b.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/4d144ed719b115453c29576901db82eb.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/4d144ed719b115453c29576901db82eb.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8f7d0e6e840fc92a2915d5bb70720ff0.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8f7d0e6e840fc92a2915d5bb70720ff0.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/7bc73cb26b60c9860dab3add25403531.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/7bc73cb26b60c9860dab3add25403531.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/2e4955c47db6946e9790a90374ffcf75.mp3/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/2e4955c47db6946e9790a90374ffcf75.mp3/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/c427562d7e519e91159ce4048fa58538.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/c427562d7e519e91159ce4048fa58538.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/2f668d522449f216a0b942c52b586a78.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/2f668d522449f216a0b942c52b586a78.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/74eb99666ada2c967d5f33a82ad1c5df.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/74eb99666ada2c967d5f33a82ad1c5df.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/82a9ca4a00e9d512b6e1a05de04c5f82.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/82a9ca4a00e9d512b6e1a05de04c5f82.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/ee3313dad93b6e523668d93f668788ac.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/ee3313dad93b6e523668d93f668788ac.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/a64601c503279233653704bbd1d75cff.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/a64601c503279233653704bbd1d75cff.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/e95f520bd05e99a32aed117ef6e31dd4.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/e95f520bd05e99a32aed117ef6e31dd4.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/49930b9aec4a40939479bb774be63e19.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/49930b9aec4a40939479bb774be63e19.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/2eb3d1870dab4d6a13a4821cb1c54e25.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/2eb3d1870dab4d6a13a4821cb1c54e25.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/4e3d603c3d37d052da090fe4643555bc.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/4e3d603c3d37d052da090fe4643555bc.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/a2002bdedb8dcfd5bd04054eec57bf63.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/a2002bdedb8dcfd5bd04054eec57bf63.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/1a2abf491f804d2f5f7ec6457bc036e7.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/1a2abf491f804d2f5f7ec6457bc036e7.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/c2030e02dbc29a280eb6a15892026657.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/c2030e02dbc29a280eb6a15892026657.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/64f572adbb5be439e57f68ea32207c6d.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/64f572adbb5be439e57f68ea32207c6d.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/6049d5c62ca55d2999ade5dee1d5027f.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/6049d5c62ca55d2999ade5dee1d5027f.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/0f26ddf41645101547cb58d6ca257834.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/0f26ddf41645101547cb58d6ca257834.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/32c52c6355ee7c59286f9a49939f06d2.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/32c52c6355ee7c59286f9a49939f06d2.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/1d0e65391d992b44a528dce138edbad9.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/1d0e65391d992b44a528dce138edbad9.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/964cbf3411c3fbda64b15b3250aa3446.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/964cbf3411c3fbda64b15b3250aa3446.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/a020d433f39c468a74466bd26d9d0375.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/a020d433f39c468a74466bd26d9d0375.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/00cd5394b304c22bb432aca0e85471b3.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/00cd5394b304c22bb432aca0e85471b3.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9f84216d2635f7edff916ba1c300dc04.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9f84216d2635f7edff916ba1c300dc04.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/383a343429872cc16dd73ea2937c3346.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/383a343429872cc16dd73ea2937c3346.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/faa7039a301789a34484cd398fcb0fd8.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/faa7039a301789a34484cd398fcb0fd8.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8f03ae864c020f4be15e9eb9767d6413.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8f03ae864c020f4be15e9eb9767d6413.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/ab1fc2ccbe78a5d437b57c3d79271d37.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/ab1fc2ccbe78a5d437b57c3d79271d37.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9ad56d0694b49ebd261d17073b4175c6.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9ad56d0694b49ebd261d17073b4175c6.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8376613fddcb527ac385b1ca7789fcb1.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8376613fddcb527ac385b1ca7789fcb1.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/b2f1719d9050c65404c26275ad9bdb2c.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/b2f1719d9050c65404c26275ad9bdb2c.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/96a0cb2fb25605839cd81466e4717a87.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/96a0cb2fb25605839cd81466e4717a87.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/954cc3b716d4f5a95bc8ea560ccd32a5.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/954cc3b716d4f5a95bc8ea560ccd32a5.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/f017bbef3879c18b7ad4e0c7dd149c3b.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/f017bbef3879c18b7ad4e0c7dd149c3b.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/d7c759e799998917b713ba154af939ff.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/d7c759e799998917b713ba154af939ff.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/7c91e0c465cda82bac9fdfae681557c5.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/7c91e0c465cda82bac9fdfae681557c5.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/c78c1f29700c7e2641e01557477d2918.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/c78c1f29700c7e2641e01557477d2918.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/66a90fbc2ddd16f3c0cf1f6d0e603403.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/66a90fbc2ddd16f3c0cf1f6d0e603403.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/dab38c901559bf2cfb2d0e0a3025c3cb.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/dab38c901559bf2cfb2d0e0a3025c3cb.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/68f496f991f681679ef76a8b3181f5e1.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/68f496f991f681679ef76a8b3181f5e1.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/25c2a2e844107117d83dde5177f74b04.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/25c2a2e844107117d83dde5177f74b04.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/659f472ea7e93bce1649a96c54f319a4.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/659f472ea7e93bce1649a96c54f319a4.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/6c42cd0c930e5759842757a1623e24dc.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/6c42cd0c930e5759842757a1623e24dc.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9359b9506759ef382a78efc72b386b5c.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9359b9506759ef382a78efc72b386b5c.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/96a477177721583312f6f4a240f81d3a.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/96a477177721583312f6f4a240f81d3a.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/e656871b3377143c7b30e8d93a2574af.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/e656871b3377143c7b30e8d93a2574af.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/168bc8a3393f926dc9fe6620c9cddd31.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/168bc8a3393f926dc9fe6620c9cddd31.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/1cb4c5a026973a26eb01a330f8a17da0.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/1cb4c5a026973a26eb01a330f8a17da0.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/187bd7dc487dca5269c5bd755965ecff.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/187bd7dc487dca5269c5bd755965ecff.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/2ecbad61632050b711c2a391d07c2adc.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/2ecbad61632050b711c2a391d07c2adc.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/a045bec9a546ceb227b28b59a9c3011f.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/a045bec9a546ceb227b28b59a9c3011f.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/a28758fa74c79ddab8863c3b35c28774.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/a28758fa74c79ddab8863c3b35c28774.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/1618b89570cfa6014b4df03f51594081.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/1618b89570cfa6014b4df03f51594081.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/c0160cc388987c1458c773755f24ec18.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/c0160cc388987c1458c773755f24ec18.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/8d8f2ee5f0bacf1a7156d16d74702043.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/8d8f2ee5f0bacf1a7156d16d74702043.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9f1739957bbf542a992dc3326e4db5e0.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9f1739957bbf542a992dc3326e4db5e0.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/5e1c3f6a3fa8ac4d260a7502444cb0ec.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/5e1c3f6a3fa8ac4d260a7502444cb0ec.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/5a93a29a75772c5c6648063a95e54f47.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/5a93a29a75772c5c6648063a95e54f47.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/33119a6a4f566772371d81217ca7d68e.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/33119a6a4f566772371d81217ca7d68e.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/cf8f897573d08d7c9225f1722f53e4d0.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/cf8f897573d08d7c9225f1722f53e4d0.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/cac23630c5a54a1bda7e87bcb327742a.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/cac23630c5a54a1bda7e87bcb327742a.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/7d549b1af6f36f450876340b67fcb573.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/7d549b1af6f36f450876340b67fcb573.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/eecb593d119d71e3bc7e5206ce8f4b85.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/eecb593d119d71e3bc7e5206ce8f4b85.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/53752ec441ca96fc4a44bfa6a3b96afd.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/53752ec441ca96fc4a44bfa6a3b96afd.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/6de29caa2b3dcb52f2f934a2a9900c2e.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/6de29caa2b3dcb52f2f934a2a9900c2e.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/03c203cd5c87efcfdf7fc9bd662ae7dc.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/03c203cd5c87efcfdf7fc9bd662ae7dc.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/b151663d1a675bcf77c006e5a355cb13.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/b151663d1a675bcf77c006e5a355cb13.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/bf5503eefe151ba0d3212b0f3dc8bc56.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/bf5503eefe151ba0d3212b0f3dc8bc56.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3495321c6b96977754d0640a217b0bbb.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3495321c6b96977754d0640a217b0bbb.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/57f7afe3b9888cca56803b73a62e4227.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/57f7afe3b9888cca56803b73a62e4227.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/64b59074f24d0e2405a509a45c0dadba.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/64b59074f24d0e2405a509a45c0dadba.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9f75c26aa6c56168a3e5a4f598de2c94.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9f75c26aa6c56168a3e5a4f598de2c94.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/e8d8bf59db37b5012dd643a16a636042.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/e8d8bf59db37b5012dd643a16a636042.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/b8209e1980475b30ff11e60d7633446d.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/b8209e1980475b30ff11e60d7633446d.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/aacb5b3cec637f192f080138b4ccd8d2.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/aacb5b3cec637f192f080138b4ccd8d2.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/84d9f26050c709e6b98706c22d2efb3d.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/84d9f26050c709e6b98706c22d2efb3d.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/6194b9a251a905d0001a969990961724.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/6194b9a251a905d0001a969990961724.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/55e95fb9c60fbebb7d20bba99c7e9609.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/55e95fb9c60fbebb7d20bba99c7e9609.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/0f53ee6a988bda07cba561d38bfbc36f.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/0f53ee6a988bda07cba561d38bfbc36f.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/091a881fcfe0b80a5f76615792b563b7.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/091a881fcfe0b80a5f76615792b563b7.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/92c2c98276c5f59a3584fe7e1924f781.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/92c2c98276c5f59a3584fe7e1924f781.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/3b9bfa142a42264ef387fe4630220cfa.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/3b9bfa142a42264ef387fe4630220cfa.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/5cb28344eb75cf26a3076919c14b293f.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/5cb28344eb75cf26a3076919c14b293f.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/c9ae846f0998e94b43f55c87f2ba0021.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/c9ae846f0998e94b43f55c87f2ba0021.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/2bf1f423cbab1b52140b44fa99024198.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/2bf1f423cbab1b52140b44fa99024198.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/17bf45da75d78112339b884767ae7559.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/17bf45da75d78112339b884767ae7559.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/794500e428ebbaf9a49fc8064274854c.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/794500e428ebbaf9a49fc8064274854c.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/a923a1883532682c88527711f916a91d.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/a923a1883532682c88527711f916a91d.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/2cbb926da4c6cdc15a576d31a5b2379f.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/2cbb926da4c6cdc15a576d31a5b2379f.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/a39a58a2d5716c7448dbdaf96840b5f0.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/a39a58a2d5716c7448dbdaf96840b5f0.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/e11a5161c7fba7130b2c9baf77653fd8.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/e11a5161c7fba7130b2c9baf77653fd8.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/279daf26b7b43e0d5df0db327dc5ccce.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/279daf26b7b43e0d5df0db327dc5ccce.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/b3b9b329b749a0cf91993fa883a26a25.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/b3b9b329b749a0cf91993fa883a26a25.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/37c39509c82cd0a0d036eb47f23c4c8a.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/37c39509c82cd0a0d036eb47f23c4c8a.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/9f07f0e5794276d476b32f0f0c0ed646.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/9f07f0e5794276d476b32f0f0c0ed646.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/797b03bdb8cf6ccfc30c0692d533d998.png/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/797b03bdb8cf6ccfc30c0692d533d998.png/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/64eeecb45494b45b727ec1872f7401df.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/64eeecb45494b45b727ec1872f7401df.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/30bacae755d42f8878f7f798876f070b.wav/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/30bacae755d42f8878f7f798876f070b.wav/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    },
+    {
+      "url": "https://assets.scratch.mit.edu/internalapi/asset/831bf5d7e82289758823cec983e1ad7d.svg/get/",
+      "file": "_external/assets.scratch.mit.edu/internalapi/asset/831bf5d7e82289758823cec983e1ad7d.svg/get/index.html",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.loadNetworkResource): Target not supported"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-07-22T11:16:34.739Z",
+    "navigationError": null,
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    ],
+    "pageErrors": [],
+    "failedAssets": [],
+    "remoteRequests": [],
+    "blockingIssues": [],
+    "status": "done"
+  }
+}
